@@ -1,0 +1,1 @@
+La logica de negocio  por ejemplo las lista simples enlazads dobles ciruculares etc
